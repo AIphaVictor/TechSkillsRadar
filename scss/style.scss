@@ -1,0 +1,18 @@
+html {
+  background: scale-lightness(#cce6ff, -10%);
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  overflow: auto;
+
+    &:hover {
+      text-decoration: none;
+    }
+}
+
+.chart {
+  float: center;
+  width: 640px;
+}
