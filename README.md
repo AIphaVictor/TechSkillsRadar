@@ -4,15 +4,7 @@ https://aiphavictor.github.io/TechSkillsRadar/
 
 ---
 
----
-
-# Tech Skills Radar
-
-https://aiphavictor.github.io/TechSkillsRadar/
-
----
-
-This graph shows how I rate my tech skills at the moment.
+This shows how I rate my tech skills at the moment.
 
 I've trained and worked as a backend Java enterprise web developer, and am working on front end development in my spare time.
 
